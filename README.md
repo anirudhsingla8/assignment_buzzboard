@@ -64,3 +64,6 @@ API_Routes
   
   
   
+You can also import the POSTMAN collection from the below link:-
+https://www.getpostman.com/collections/39f1c419883fdd70f3d4
+
